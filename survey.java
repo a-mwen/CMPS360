@@ -18,7 +18,7 @@ public class survey {
         String entry;
         boolean isGood;
 
-        StringBuilder wrongQuestions = new StringBuilder();
+        String incorrectQuestions = "";
 
         for (x = 0; x < questions.length; ++x) {
             isGood = false;
@@ -40,15 +40,15 @@ public class survey {
                 ++correct;
                 JOptionPane.showMessageDialog(null, "Correct!");
             } else {
-                wrongQuestions.append("Question ").append(x + 1).append("\n");
-                wrongQuestions.append(questions[x]).append("\n");
-                wrongQuestions.append("Your Answer: ").append(ans).append("\n");
-                wrongQuestions.append("Correct Answer: ").append(answers[x]).append("\n\n");
+                incorrectQuestions += "Question " + (x + 1) + "\n";
+                incorrectQuestions += questions[x] + "\n";
+                incorrectQuestions += "Your Answer: " + ans + "\n";
+                incorrectQuestions += "Correct Answer: " + answers[x] + "\n\n";
             }
         }
 
-        if (wrongQuestions.length() > 0) {
-            JOptionPane.showMessageDialog(null, "Incorrect Answers:\n" + wrongQuestions.toString());
+        if (!incorrectQuestions.isEmpty()) {
+            JOptionPane.showMessageDialog(null, "Incorrect Answers:\n" + incorrectQuestions);
         }
 
         JOptionPane.showMessageDialog(null, "You received " + correct + " right and \n" + (questions.length - correct) + " wrong");
