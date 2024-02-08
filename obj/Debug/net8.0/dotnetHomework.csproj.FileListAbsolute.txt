@@ -1,0 +1,15 @@
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\bin\Debug\net8.0\dotnetHomework.exe
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\bin\Debug\net8.0\dotnetHomework.deps.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\bin\Debug\net8.0\dotnetHomework.runtimeconfig.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\bin\Debug\net8.0\dotnetHomework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\bin\Debug\net8.0\dotnetHomework.pdb
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.AssemblyInfoInputs.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.AssemblyInfo.cs
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.csproj.CoreCompileInputs.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.sourcelink.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\refint\dotnetHomework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.pdb
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\dotnetHomework.genruntimeconfig.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\dotnetHomework\obj\Debug\net8.0\ref\dotnetHomework.dll
