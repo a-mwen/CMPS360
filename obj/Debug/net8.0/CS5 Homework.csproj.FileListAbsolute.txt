@@ -1,0 +1,31 @@
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\appsettings.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.staticwebassets.runtime.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.exe
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.deps.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.runtimeconfig.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\bin\Debug\net8.0\CS5 Homework.pdb
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.AssemblyInfoInputs.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.AssemblyInfo.cs
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.csproj.CoreCompileInputs.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.RazorAssemblyInfo.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.RazorAssemblyInfo.cs
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.sourcelink.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets\msbuild.CS5 Homework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets\msbuild.build.CS5 Homework.props
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CS5 Homework.props
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CS5 Homework.props
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\scopedcss\bundle\CS5 Homework.styles.css
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\scopedcss\projectbundle\CS5 Homework.bundle.scp.css
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\refint\CS5 Homework.dll
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.pdb
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\CS5 Homework.genruntimeconfig.cache
+C:\Users\asham\OneDrive\Point Park University\Survey of Programming Languages\C# .NET\CS5 Homework\obj\Debug\net8.0\ref\CS5 Homework.dll

@@ -1,0 +1,26 @@
+﻿@page
+@model MyApp.Namespace.CongratulationsFormModel
+@{
+    ViewData["Title"] = "Congratulations Form";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+    <label>Your Name:</label>
+    <input type="text" name="senderName" required />
+
+    <label>Congratulations Message:</label>
+    <textarea name="congratulationsMessage" required></textarea>
+
+    <button type="submit">Submit Congratulations</button>
+</form>
+
+
+<br>
+<!-- Add an image of Chiefs fans celebrating and congratulating -->
+<img src="~/images/fanscongratsform.jpg" alt="Chiefs Fans Celebration" />
+<br>
+<!-- Add a fact about the Chiefs' quarterback Patrick Mahomes -->
+<h2>Patrick Mahomes Fact:</h2>
+<p>Quarterback Patrick Mahomes led the Chiefs back from another double-digit deficit to secure his third world championship.</p>

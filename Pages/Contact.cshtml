@@ -1,0 +1,36 @@
+﻿@page
+@model MyApp.Namespace.ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<!-- Contact Form Section -->
+<section>
+    <p>Have a question or feedback? Reach out to us using the form below.</p>
+
+    <form method="post">
+        <label>Your Name:</label>
+        <input type="text" name="contactName" required />
+
+        <label>Your Email:</label>
+        <input type="email" name="contactEmail" required />
+
+        <label>Message:</label>
+        <textarea name="contactMessage" required></textarea>
+
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+<!-- Contact Information Section -->
+<br>
+<section>
+    <h2>Contact Information</h2>
+
+    <p>
+        <strong>Email:</strong> contact@example.com<br />
+        <strong>Phone:</strong> (555) 123-4567<br />
+        <strong>Address:</strong> 123 Main St, Cityville, USA
+    </p>
+</section>
