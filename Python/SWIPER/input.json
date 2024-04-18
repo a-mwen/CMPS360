@@ -1,0 +1,18 @@
+[
+    {
+        "welcome_message": "Welcome to Cafe Delight!",
+        "description": "We are a cozy cafe serving delicious coffee and pastries.",
+        "menu_items": ["Coffee", "Tea", "Croissant", "Muffin"],
+        "testimonials": [
+            {"quote": "Best coffee in town!", "author": "John Doe"},
+            {"quote": "Love their pastries!", "author": "Jane Smith"}
+        ],
+        "hours_of_operation": ["Mon-Fri: 8am-6pm", "Sat-Sun: 9am-5pm"],
+        "daily_specials": ["Monday: 2-for-1 coffee", "Wednesday: Free pastry with any drink"],
+        "social_media_links": ["https://www.facebook.com/cafedelight", "https://twitter.com/cafedelight"],
+        "team_members": ["Alice Johnson", "Bob Smith", "Emily Brown"],
+        "address": "123 Main St, City, State",
+        "phone": "123-456-7890",
+        "email": "info@cafedelight.com"
+    }
+]

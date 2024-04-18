@@ -1,0 +1,20 @@
+[
+{"category": "Beverages", "items": ["Coffee", "Tea", "Hot Chocolate"]},
+{"category": "Breakfast", "items": ["Bagels", "Croissants", "Omelettes"]},
+{"category": "Lunch Specials", "items": ["Sandwiches", "Salads", "Soup of the Day"]},
+{"category": "Desserts", "items": ["Cakes", "Pies", "Cookies"]},
+{"quote": "\"Great coffee and friendly staff! Definitely my go-to spot for morning meetings.\"", "author": "John Doe"},
+{"hour": "Monday - Friday: 7:00 AM - 7:00 PM"},
+{"hour": "Saturday - Sunday: 8:00 AM - 6:00 PM"},
+{"special": "Monday: Buy one get one free on all pastries"},
+{"special": "Tuesday: $1 off any size coffee"},
+{"special": "Wednesday: Free soup with any sandwich purchase"},
+{"special": "Thursady: Free drink with any breakfast purchase"},
+{"special": "Wednesday: 50% Coffee if bought with bagel"},
+{"social_media_link": "https://www.facebook.com/cafedelta"},
+{"social_media_link": "https://twitter.com/cafedelta"},
+{"social_media_link": "https://www.instagram.com/cafedelta"},
+{"name": "John Doe - Head Chef"},
+{"name": "Mike Smith - Barista"},
+{"address": "123 Main Street, Pittsburgh, PA, 15222", "phone": "Phone: (123) 456-7890","email": "Email: info@cafedelight.com"}
+]
